@@ -15,6 +15,16 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "When Meghan met Marry": {
+    "captionAlign": "left",
+    "captionTop": 390,
+    "captionLeft": 60,
+    "captionRight": 1200,
+    "backgroundImage": "WMMH-Audiogram.png",
+    "foregroundColor": "#fff",
+    "waveBottom": 700,
+    "waveTop": 450
+  },
   "Christmas Is Coming": {
     "captionAlign": "left",
     "captionTop": 260,
@@ -45,9 +55,10 @@
     "waveTop": 450
   },
   "Good Sport": {
-    "captionAlign": "right",
-    "captionTop": 230,
-    "captionRight": 1200,
+    "captionAlign": "left",
+    "captionTop": 300,
+    "captionLeft": 80,
+    "captionRight": 800,
     "backgroundImage": "GoodSport-Audiogram.png",
     "foregroundColor": "#fff",
     "waveBottom": 700,
