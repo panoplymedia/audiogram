@@ -15,6 +15,26 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "KidLit": {
+    "captionAlign": "left",
+    "captionTop": 390,
+    "captionLeft": 60,
+    "captionRight": 1200,
+    "backgroundImage": "KidLit-Audiogram.png",
+    "foregroundColor": "#fff",
+    "waveBottom": 700,
+    "waveTop": 450
+  },
+  "The Walk": {
+    "captionAlign": "left",
+    "captionTop": 390,
+    "captionLeft": 60,
+    "captionRight": 1200,
+    "backgroundImage": "TheWalk-Audiogram.png",
+    "foregroundColor": "#fff",
+    "waveBottom": 700,
+    "waveTop": 450
+  },
   "When Meghan met Marry": {
     "captionAlign": "left",
     "captionTop": 390,
